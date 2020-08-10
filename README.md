@@ -1,14 +1,14 @@
--This repository has the tidy data and analysis from the Human Activity Recognition Using Smartphones dataset.
+* This repository has the tidy data and analysis from the Human Activity Recognition Using Smartphones dataset.
 
 
--Site where data set was obtained: 
+* Site where data set was obtained: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
--CodeBook.md describes the variables, the data, and any transformations or work that I performed to clean up the data
+* CodeBook.md describes the variables, the data, and any transformations or work that I performed to clean up the data
 
 
--R script called run_analysis.R does the following:
+* R script called run_analysis.R does the following:
 
 1.-Merges the training and the test sets to create one data set.
 
@@ -21,4 +21,4 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 5.-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
--FinalData.txt is the exported final data after perfoming the R script run_analysis.R
+* FinalData.txt is the exported final data after perfoming the R script run_analysis.R
